@@ -1,0 +1,15 @@
+{
+    "app": {
+        "version": "1.0.0"
+    },
+    "database": {
+        "use_url": true,
+        "url": "mongodb://localhost:27017/login",
+		"host": "localhost",
+		"db": "login",
+		"auth": true,
+		"username": "username",
+		"pass": "password",
+		"port": 27017
+    }
+}
